@@ -1,0 +1,8 @@
+ sasha 360
+ vova 410
+ dina 0
+ sara 0
+ sasha 777
+ sara 660
+ sara 8
+ eric 36

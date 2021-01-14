@@ -1,0 +1,25 @@
+﻿  Dessign.cpp
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\Dessign.cpp(13,12): warning C4309:  'initializing': truncation of constant value
+  Game.cpp
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\Dessign.cpp(193,11): warning C4309:  'initializing': truncation of constant value
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\Game.cpp(171,11): warning C4309:  'initializing': truncation of constant value
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\Game.cpp(172,11): warning C4309:  'initializing': truncation of constant value
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\Game.cpp(174,11): warning C4309:  'initializing': truncation of constant value
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\Game.cpp(175,12): warning C4309:  'initializing': truncation of constant value
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\Game.cpp(177,12): warning C4309:  'initializing': truncation of constant value
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\Game.cpp(178,12): warning C4309:  'initializing': truncation of constant value
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\Game.cpp(179,12): warning C4309:  'initializing': truncation of constant value
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\Game.cpp(180,12): warning C4309:  'initializing': truncation of constant value
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\Game.cpp(405,53): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\Game.cpp(406,54): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\Game.cpp(422,53): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\Game.cpp(423,54): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\Game.cpp(437,51): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\Game.cpp(438,52): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\Game.cpp(452,51): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+  Game_Assemblage.cpp
+  main.cpp
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\Game.cpp(453,54): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\game_2048\main.cpp(5,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  game_2048.vcxproj -> D:\Working place\Programming(step + other)\OOP on c++\Coursework\Ready coursework 2048 but must be in different files\game_2048\x64\Debug\game_2048.exe
